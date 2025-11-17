@@ -1,4 +1,7 @@
-## Clinic/Hospital Admin Panel
+## Clinic/Hospital Admin Panel V2 is Available Now 
+Click Here [https://github.com/salim943/Clinic-Hospital-Admin-Panel-React-FastAPI-Full-Stack-App-V2)
+
+## Clinic/Hospital Admin Panel 
 <br/>
 In the project directory, you can run:
 
